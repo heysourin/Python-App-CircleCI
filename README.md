@@ -1,7 +1,7 @@
 # Python-App-CircleCI
 
 ## Run
-- python main.py
+```python main.py```
 
 ## Test
-- python tests.py
+```python tests.py```
